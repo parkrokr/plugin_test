@@ -4,7 +4,7 @@ int main()
 {
 	std::cout << "plugin_test2, .gitingonre" << std::endl;
 
-	//some changes
+	//some change
 
 	return 0;
 }
