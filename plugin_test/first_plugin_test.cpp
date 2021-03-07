@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "This is first visual studio - github plugin test" << std::endl;
+	std::cout << "This is first visual studio - github plugin test, with .gitignore" << std::endl;
 
 	return 0;
 }
